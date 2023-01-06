@@ -32,21 +32,46 @@
 
 <div align="center">
   
-### Languages and Tools 
+### Languages
   
 </div>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-CSS3-315780?logo=css3&style=for-the-badge" width="100" height="30"/>
 </div>
 
+<div align="center">
+  
+### Frameworks & Libraries
+  
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" width="100" height="30"/>
+<!--   <img src="https://img.shields.io/badge/-Node.js-lightbrown?logo=node.js&logoColor=white&style=for-the-badge" width="100"  height="30"/> -->
+  <img src="https://img.shields.io/badge/-Mocha-8d6748?logo=mocha&logoColor=white&style=for-the-badge" width="100"  height="30"/>
+  <img src="https://img.shields.io/badge/-Chai-C4A484?logo=chai&logoColor=white&style=for-the-badge" width="100"  height="30"/>
+  <img src="https://img.shields.io/badge/-npm-c12127?logo=npm&logoColor=white&style=for-the-badge" width="100"  height="30"/>
+  <img src="https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-day.js-fb6052?logo=chart.js&logoColor=white&style=for-the-badge" width="100" height="30"/>  
+</div>
+
+<div align="center">  
+  
+### Tools
+  
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-vs%20code-blue?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-repl.it-C73E1D?logo=replit&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-slack-black?logo=slack&logoColor=white&style=for-the-badge" width="100" height="30"/>
+</div>
 
 ---
 
