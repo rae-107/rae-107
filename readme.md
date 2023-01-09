@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=for-the-badge" width="140" height="30"/>
   <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" width="100" height="30"/>
   <img src="https://img.shields.io/badge/-CSS3-315780?logo=css3&style=for-the-badge" width="100" height="30"/>
 </div>
@@ -49,13 +49,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" width="110" height="30"/>
 <!--   <img src="https://img.shields.io/badge/-Node.js-lightbrown?logo=node.js&logoColor=white&style=for-the-badge" width="100"  height="30"/> -->
   <img src="https://img.shields.io/badge/-Mocha-8d6748?logo=mocha&logoColor=white&style=for-the-badge" width="100"  height="30"/>
-  <img src="https://img.shields.io/badge/-Chai-C4A484?logo=chai&logoColor=white&style=for-the-badge" width="100"  height="30"/>
-  <img src="https://img.shields.io/badge/-npm-c12127?logo=npm&logoColor=white&style=for-the-badge" width="100"  height="30"/>
-  <img src="https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&logoColor=white&style=for-the-badge" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-Chai-C4A484?logo=chai&logoColor=white&style=for-the-badge" width="85"  height="30"/>
+  <img src="https://img.shields.io/badge/-npm-c12127?logo=npm&logoColor=white&style=for-the-badge" width="80"  height="30"/>
+  <img src="https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&logoColor=white&style=for-the-badge" width="120" height="30"/>
+  <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="110" height="30"/>
   <img src="https://img.shields.io/badge/-day.js-fb6052?logo=chart.js&logoColor=white&style=for-the-badge" width="100" height="30"/>  
 </div>
 
@@ -66,10 +66,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge" width="95" height="31"/>
+  <img src="https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge" width="70" height="30"/>
   <img src="https://img.shields.io/badge/-vs%20code-blue?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-repl.it-C73E1D?logo=replit&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-repl.it-C73E1D?logo=replit&logoColor=white&style=for-the-badge" width="95" height="30"/>
   <img src="https://img.shields.io/badge/-slack-black?logo=slack&logoColor=white&style=for-the-badge" width="100" height="30"/>
 </div>
 
