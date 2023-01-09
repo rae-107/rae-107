@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/-npm-c12127?logo=npm&logoColor=white&style=for-the-badge" width="80"  height="30"/>
   <img src="https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&logoColor=white&style=for-the-badge" width="120" height="30"/>
   <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="110" height="30"/>
-  <img src="https://img.shields.io/badge/-day.js-fb6052?logo=chart.js&logoColor=white&style=for-the-badge" width="100" height="30"/>  
+  <img src="https://img.shields.io/badge/-day.js-fb6052?style=for-the-badge" width="80" height="30"/>  
 </div>
 
 <div align="center">  
