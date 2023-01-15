@@ -26,7 +26,7 @@
   
 </div>
 
-<p align="center"> I’m currently a student in Turing’s front-end development program. 🤓</p>
+<p align="center"> I’m currently a student in Turing’s Front-End Engineer program. 🤓</p>
 <p align="center">I'm originally from Florida but have spent most of my life in Colorado Springs, Co. 🏔</p>
 <p align="center">~ A few of my hobbies are ~</p>
 <p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 10 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
