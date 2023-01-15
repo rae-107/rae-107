@@ -26,7 +26,16 @@
   
 </div>
 
- I’m a student in Turing’s front-end development program. Working in restaurants for the last decade has taught me many useful skills including multi-tasking, problem solving, collaboration, and communication. I’ve always been passionate, hard-working, organized and goal oriented. My goal is to be in a diverse, challenging environment that allows me to utilize my abilities, skills and continue to learn.
+<p align="center"> I’m currently a student in Turing’s front-end development program. 🤓</p>
+<p align="center">I'm originally from Florida but have spent most of my life in Colorado Springs, Co. 🏔</p>
+<p align="center">~ A few of my hobbies are ~</p>
+<p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 10 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
+<p align="center"><strong>Traveling!</strong> 🚐 I haven't left the country yet but the PNW has been my favorite place to visit. </p>
+<p align="center"><strong>Video Games!</strong> 🎮 Some of my favorite games are: Breathe of The Wild, Elden Ring and the Halo series.</p>
+<p align="center">Learning to code has been the best decision of my life so far. I'm beyond excited to see where this journey takes me! </p>
+<p align="center">Please feel free to reach out if you'd like to chat ☺️</p>
+
+<!--  I’m a student in Turing’s front-end development program. Working in restaurants for the last decade has taught me many useful skills including multi-tasking, problem solving, collaboration, and communication. I’ve always been passionate, hard-working, organized and goal oriented. My goal is to be in a diverse, challenging environment that allows me to utilize my abilities, skills and continue to learn. -->
 
 ---
 
@@ -57,6 +66,8 @@
   <img src="https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&logoColor=white&style=for-the-badge" width="120" height="30"/>
   <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="110" height="30"/>
   <img src="https://img.shields.io/badge/-day.js-fb6052?style=for-the-badge" width="80" height="30"/>  
+  <img src="https://img.shields.io/badge/-SWIPERJS-0052ff?style=for-the-badge" width="80" height="30"/>  
+  
 </div>
 
 <div align="center">  
@@ -74,14 +85,14 @@
 </div>
 
 ---
-
+<!-- 
 <div align="center">
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rae-107&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
----
+--- -->
 
 <div align="center">
   
