@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="110" height="30"/>
   <img src="https://img.shields.io/badge/-day.js-fb6052?style=for-the-badge" width="80" height="30"/>  
   <img src="https://img.shields.io/badge/-SWIPERJS-0052ff?style=for-the-badge" width="80" height="30"/>  
+  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="100" height="30"/>
   
 </div>
 
