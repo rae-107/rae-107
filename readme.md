@@ -59,16 +59,16 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" width="100" height="30"/>
-<!--   <img src="https://img.shields.io/badge/-Node.js-lightbrown?logo=node.js&logoColor=white&style=for-the-badge" width="100"  height="30"/> -->
+  <img src="https://img.shields.io/badge/-redux-593d88?logo=redux&style=for-the-badge" width="100" height="30"/> 
+  <img src="https://img.shields.io/badge/-react%20router-f44250?logo=react%20router&logoColor=white&style=for-the-badge" width="140" height="30"/>
+  <img src="https://img.shields.io/badge/-Cypress-007780?logo=cypress&logoColor=white&style=for-the-badge" width="100"  height="30"/>
   <img src="https://img.shields.io/badge/-Mocha-8d6748?logo=mocha&logoColor=white&style=for-the-badge" width="100"  height="30"/>
   <img src="https://img.shields.io/badge/-Chai-C4A484?logo=chai&logoColor=white&style=for-the-badge" width="85"  height="30"/>
-  <img src="https://img.shields.io/badge/-Cypress-007780?logo=cypress&logoColor=white&style=for-the-badge" width="100"  height="30"/>
   <img src="https://img.shields.io/badge/-npm-c12127?logo=npm&logoColor=white&style=for-the-badge" width="80"  height="30"/>
-  <img src="https://img.shields.io/badge/-webpack-2b3a42?logo=webpack&logoColor=white&style=for-the-badge" width="120" height="30"/>
+  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="100" height="30"/>
   <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="110" height="30"/>
   <img src="https://img.shields.io/badge/-day.js-fb6052?style=for-the-badge" width="80" height="30"/>  
-  <img src="https://img.shields.io/badge/-SWIPERJS-0052ff?style=for-the-badge" width="80" height="30"/>  
-  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-SWIPERJS-0052ff?style=for-the-badge" width="100" height="30"/>  
   
 </div>
 
