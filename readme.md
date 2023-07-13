@@ -31,7 +31,7 @@
 <p align="center">~ A few of my hobbies are ~</p>
 <p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 15 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
 <p align="center"><strong>Traveling!</strong> 🚐 I haven't left the country yet but the PNW and Alaska have been my favorite places to visit. </p>
-<p align="center"><strong>Video Games!</strong> 🎮 Some of my favorite games are: Breathe of The Wild, Elden Ring and the Halo series.</p>
+<p align="center"><strong>Video Games!</strong> 🎮 Some of my favorite games are: The Legend of Zelda, Dark Souls and Halo series.</p>
 <p align="center">Learning to code has been the best decision of my life so far. I'm beyond excited to see where this journey takes me! </p>
 <p align="center">Please feel free to reach out if you'd like to chat ☺️</p>
 
