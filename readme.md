@@ -29,7 +29,7 @@
 <p align="center">I'm a Front-End Engineer graduate from Turing School of Software & Design. 🤓</p>
 <p align="center">I'm originally from Florida but have spent most of my life in Colorado Springs, Co. 🏔</p>
 <p align="center">~ A few of my hobbies are ~</p>
-<p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 23 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
+<p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 29 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
 <p align="center"><strong>Traveling!</strong> 🚐 I haven't left the country yet but the PNW and Alaska have been my favorite places to visit. </p>
 <p align="center"><strong>Video Games!</strong> 🎮 Some of my favorite games are: The Legend of Zelda, Dark Souls and Halo series.</p>
 <p align="center">Learning to code has been the best decision of my life so far. I'm beyond excited to see where this journey takes me! </p>
@@ -49,7 +49,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=for-the-badge" width="140" height="30"/>
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge" width="100" height="30"/>
   <img src="https://img.shields.io/badge/-CSS-315780?logo=css3&style=for-the-badge" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/-GraphQL-d64292?logo=graphql&style=for-the-badge" width="110" height="30"/>
+  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-SQL-3E6E93?style=for-the-badge" width="70" height="30"/>
+  
 </div>
 
 <div align="center">
@@ -65,9 +67,10 @@
   <img src="https://img.shields.io/badge/-Cypress-007780?logo=cypress&logoColor=white&style=for-the-badge" width="100"  height="30"/>
   <img src="https://img.shields.io/badge/-Mocha-8d6748?logo=mocha&logoColor=white&style=for-the-badge" width="100"  height="30"/>
   <img src="https://img.shields.io/badge/-Chai-C4A484?logo=chai&logoColor=white&style=for-the-badge" width="85"  height="30"/>
-  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-GraphQL-d64292?logo=graphql&style=for-the-badge" width="110" height="30"/>
+  <img src="https://img.shields.io/badge/-Node.js-026e00?logo=node&style=for-the-badge" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/-express-259dff?logo=express&style=for-the-badge" width="110" height="30"/>
   <img src="https://img.shields.io/badge/-chart.js-FF6384?logo=chart.js&logoColor=white&style=for-the-badge" width="110" height="30"/>
-  <img src="https://img.shields.io/badge/-day.js-fb6052?style=for-the-badge" width="80" height="30"/>  
   <img src="https://img.shields.io/badge/-SWIPERJS-0052ff?style=for-the-badge" width="100" height="30"/>  
   
 </div>
