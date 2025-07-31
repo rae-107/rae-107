@@ -90,19 +90,5 @@
   <img src="https://img.shields.io/badge/-figma-2c2c2c?logo=figma&style=for-the-badge" width="100" height="30"/>
 </div>
 
----
-
-<div align="center">
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rae-107&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
---- 
-
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rae-107&theme=material)](https://git.io/streak-stats)
-</div>
 
 
