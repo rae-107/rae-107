@@ -26,16 +26,15 @@
   
 </div>
 
-<p align="center">I'm a Front-End Engineer graduate from Turing School of Software & Design. 🤓</p>
+<p align="center">Frontend developer with experience building accessible, responsive apps using React and TypeScript. Skilled in agile workflows, modular UI development, and cross-functional collaboration. Passionate about clean design and seamless user experiences.</p>
 <p align="center">I'm originally from Florida but have spent most of my life in Colorado Springs, Co. 🏔</p>
 <p align="center">~ A few of my hobbies are ~</p>
-<p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 29 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
-<p align="center"><strong>Traveling!</strong> 🚐 I haven't left the country yet but the PNW and Alaska have been my favorite places to visit. </p>
+<p align="center"><strong>Climbing!</strong> 🧗‍♀️ I'm a passionate climber. Travelling to new climbing destinations is one of my favorite activities.</p>
+<p align="center"><strong>Hiking!</strong> 🥾 I'm an avid hiker. I've hiked 34 out of the 54 fourteeners in CO. One of my goals is to say that I've hiked all of them. </p>
+<p align="center"><strong>Reading!</strong> 📚 I'm a big fan of reading with my favorite genres being Fantasy, Thriller, Mystery and Self-Help. </p>
 <p align="center"><strong>Video Games!</strong> 🎮 Some of my favorite games are: The Legend of Zelda, Dark Souls and Halo series.</p>
 <p align="center">Learning to code has been the best decision of my life so far. I'm beyond excited to see where this journey takes me! </p>
 <p align="center">Please feel free to reach out if you'd like to chat ☺️</p>
-
-<!--  I’m a student in Turing’s front-end development program. Working in restaurants for the last decade has taught me many useful skills including multi-tasking, problem solving, collaboration, and communication. I’ve always been passionate, hard-working, organized and goal oriented. My goal is to be in a diverse, challenging environment that allows me to utilize my abilities, skills and continue to learn. -->
 
 ---
 
@@ -48,9 +47,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=for-the-badge" width="140" height="30"/>
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS-315780?logo=css3&style=for-the-badge" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-SQL-3E6E93?style=for-the-badge" width="70" height="30"/>
+  <img src="https://img.shields.io/badge/-CSS-315780?logo=css3&style=for-the-badge" width="60" height="30"/>
+  <img src="https://img.shields.io/badge/-sass-c69?logo=sass&logoColor=white&style=for-the-badge" width="80" height="30"/>
+  <img src="https://img.shields.io/badge/-SQL-3E6E93?style=for-the-badge" width="60" height="30"/>
   
 </div>
 
@@ -82,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge" width="95" height="31"/>
+  <img src="https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge" width="95" height="30"/>
   <img src="https://img.shields.io/badge/-git-orange?logo=git&logoColor=white&style=for-the-badge" width="70" height="30"/>
   <img src="https://img.shields.io/badge/-vs%20code-blue?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" width="100" height="30"/>
   <img src="https://img.shields.io/badge/-repl.it-C73E1D?logo=replit&logoColor=white&style=for-the-badge" width="95" height="30"/>
